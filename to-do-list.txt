@@ -1,12 +1,4 @@
-1. Srediti naslovnu stranu 
-	FP7 -- H2020, datumi, info o callu,
-	organizacija strane
-	master slide ce to resiti na ostalim sttranama
-2. Prevesti apstrakt
-3. Napisati sadrzaj
-4. Srediti fontove (velicina, tip slova, paragrafi, margine, formati)
-5. Obrisati ostatke templateova
-6. Check in objectives, milestones and excetra: 
-	Unmatch: Number of papers (... over three years ) and project duration (two years)
-7. Napisati Workpackage description
-8. Etical table: change chapters to pages once page number stable
+1. Fix footer: Proposal Part B: page [x] of [y]
+2. Srediti fontove (velicina, tip slova, paragrafi, margine, formati)
+3. Napisati Workpackage description
+4. Etical table: change chapters to pages once page number stable
