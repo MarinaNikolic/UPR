@@ -1,7 +1,7 @@
 1. Proposal										Done
-2. Prezentacija za proposal						Fix big letters, add animation, add n/N
+2. Prezentacija za proposal						Done
 3. Agilni plan	trello							to do
-4. CMMI											Marina (translate template parts)
+4. CMMI											Done
 
 5. E shop										to do
 	free web store
