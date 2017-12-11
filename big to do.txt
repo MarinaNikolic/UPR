@@ -3,7 +3,7 @@
 3. Agilni plan	trello							Done
 4. CMMI											Done (consider presentation)
 
-5. E shop										to do
+5. E shop										Done
 	free web store
 6. Mindgenomics									to do
 7. SBA											to do
