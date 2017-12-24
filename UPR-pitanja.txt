@@ -1,0 +1,63 @@
+I Oprezna ciljna grupa - 100% samokontrole
+	a) Vazno je biti oprezan u svemu.
+	b) Izlged nije presudan za moju odluku.
+	c) Cenim iskljucivo dobar savet.
+	
+II Samopouzdana (samouverena) ciljna grupa - 50% samokontrole
+	a) Samo ono sto je provereno je zaista sigurno.
+	b) Meni je uvek kvalitet na prvom mestu.
+	c) Verujem samo u sopstvenu odluku, a ne u tudje savete.
+
+III Rizicna ciljna grupa - 20% samokontrole
+	a) Uzivam u novim i nepoznatim situacijama.
+	b) Privlace me avanturizam i ceste promene okolnosti.
+	c) Motivise me neizvesnost, a ne obazrivost i okolisanje.
+===============================================================
+
+Vinjeta 1:
+	1) Vazno je biti oprezan.
+		a)	Slazem se. -> I
+		b)	Delimicno se slazem.
+		c)	Ne slazem se.
+		
+	2) Samo ono sto je provereno je zaista sigurno.
+		a)	Tacno. -> II
+		b)	Delimicno tacno.
+		c)	Netacno.
+		
+	3) Uzivam u novim i nepoznatim situacijama.
+		a)	Uvek. -> III
+		b)	Cesto.	
+		c)	Nikada.
+
+Vinjeta 2:
+	1) Izlged nije presudan za moju odluku.
+		a)	Slazem se. -> I
+		b)	Delimicno se slazem.
+		c)	Ne slazem se.
+	
+	2) Meni je uvek kvalitet na prvom mestu.
+		a)	Tacno. -> II
+		b)	Delimicno tacno.
+		c)	Netacno.
+		
+	3) Privlace me avanturizam i ceste promene okolnosti.
+		a)	Uvek. -> III
+		b)	Cesto.	
+		c)	Nikada.
+		
+Vinjeta 3:
+	1) Cenim iskljucivo dobar savet.
+		a)	Slazem se. -> I
+		b)	Delimicno se slazem.
+		c)	Ne slazem se.
+		
+	2) Verujem samo u sopstvenu odluku, a ne u tudje savete.
+		a)	Tacno. -> II
+		b)	Delimicno tacno.
+		c)	Netacno.
+
+	3) Motivise me neizvesnost, a ne obazrivost i okolisanje.
+		a)	Uvek. -> III
+		b)	Cesto.	
+		c)	Nikada.

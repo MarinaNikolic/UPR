@@ -1,0 +1,47 @@
+I Karoserija
+	1. Limuzina (Sedan)
+	2. Hatchback
+	3. Karavan
+	4. Kabriolet
+	5. Dzip/SUV (Suburban Utility Vehicle)
+	6. Coupe
+	
+II Gorivo
+	1. Benzin
+	2. Dizel
+	3. TNG
+	4. Metan
+	5. Elektricni pogon
+	6. Hibrid
+
+III Boja karoserije
+	1. Crna
+	2. Crvena
+	3. Plava
+	4. Zelena
+	5. Metalik siva
+	6. Bela
+
+IV Godina proizvodnje
+	1.	2016. - 2018.
+	2.	2014. - 2016.
+	3.	2011. - 2014.
+	4.	2008. - 2011. 
+	5.	2006. - 2008.
+	6.	2004. - 2006.
+	
+V Konjska snaga
+	1. <75 KS
+	2. 75 KS - 90 KS
+	3. 90 KS - 140 KS
+	4. 140 KS - 200 KS 
+	5. 200 KS - 250 KS
+	6. 250 KS - 300 KS	
+	
+VI Menjac
+	1. Automatski
+	2. Poluautomatski
+	3. Manuelni 5 brzina
+	4. Manuelni 6 brzina
+	5. Manuelni 7 brzina
+	
