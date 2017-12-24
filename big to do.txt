@@ -1,17 +1,17 @@
-1. Proposal										Done
+1. Proposal										        Done
 2. Prezentacija za proposal						Done
-3. Agilni plan	trello							Done
-4. CMMI											Done
+3. Agilni plan	trello							  Done
+4. CMMI											          Done
 
-5. E shop										Done
-6. Mindgenomics									started (to do)
-7. SBA											Done (pdf convert)
-8. Trademark									Done (pdf convert)
+5. E shop										          Done
+6. Mindgenomics									      started (to do)
+7. SBA											          Done
+8. Trademark									        Done
 
-9. survay										/
-10. resarch 									Etran (need to upload)
-11. datamining									Done
-12. brending									/
+9. survay										          /
+10. resarch 									        Etran (need to upload)
+11. datamining									      Done
+12. brending									        /
 
-13. Kreativnost									to do (read paper, choose one)
+13. Kreativnost									      to do (read paper, choose one)
 
