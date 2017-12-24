@@ -1,17 +1,17 @@
 1. Proposal										Done
 2. Prezentacija za proposal						Done
 3. Agilni plan	trello							Done
-4. CMMI											Done (consider presentation)
+4. CMMI											Done
 
 5. E shop										Done
-	free web store
-6. Mindgenomics									to do
-7. SBA											Done (consider pdf convert, presentation)
-8. Trademark									Done (consider pdf convert)
+6. Mindgenomics									started (to do)
+7. SBA											Done (pdf convert)
+8. Trademark									Done (pdf convert)
 
+9. survay										/
+10. resarch 									Etran (need to upload)
+11. datamining									Done
+12. brending									/
 
-10. survay										?
-11. resarch 									Marina old, if accepted
+13. Kreativnost									to do (read paper, choose one)
 
-12. datamining									Done
-13. brending									?
