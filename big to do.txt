@@ -4,14 +4,17 @@
 4. CMMI											          Done
 
 5. E shop										          Done
-6. Mindgenomics									      started (to do)
+6. Mindgenomics									      Done
 7. SBA											          Done
 8. Trademark									        Done
 
 9. survay										          /
-10. resarch 									        Etran (need to upload)
+10. resarch 									        Done
 11. datamining									      Done
 12. brending									        /
 
-13. Kreativnost									      to do (read paper, choose one)
-
+13. Kreativnost									      Done (needs letter corrections)
+14. Proveriti slovne greske           To do
+15. Srediti repozitorijum             To do
+16. Poslati finalnu verziju           To do
+17. Koordinirati odbranu              To do
